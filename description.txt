@@ -1,0 +1,16 @@
+Remove bat from existance
+has config for doing stuff differently
+
+idea by :
+
+Vintage — Today at 6:25 AM
+ :
+A mod or feature that removes bats....and just bats 
+
+Changelog :
+
+v.1.1
+- added icon and combat text
+
+v.1.0
+- release
